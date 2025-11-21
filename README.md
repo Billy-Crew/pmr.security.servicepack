@@ -27,3 +27,10 @@ lua install.lua
 ```sh
 kc check_sec_servicepack
 ```
+
+
+## List of Scripts
+
+**NOTE:**
+
+[refer this](los.md)
