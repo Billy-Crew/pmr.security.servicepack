@@ -31,6 +31,5 @@ kc check_sec_servicepack
 
 ## List of Scripts
 
-**NOTE:**
+**[Refer to this list.](los.md)**
 
-[refer this](los.md)
